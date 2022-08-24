@@ -81,4 +81,4 @@ AngularJS provides a frontend web framework for creating dynamic views in your w
 ![Node Server](./Project_4_Images/nodeserver.PNG)
 
 Using the url http://localhost:3300 the Web page can be access and updated as shown below.
-![Web Page](./Project_4_Images/Display%20Page.PNG)
+![Web Page](./Project_4_Images/Books%20Register%20web%20page.PNG)
